@@ -1,0 +1,1217 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Peace and Conflicts Resolution",
+    "code": "PHS 201.1",
+    "session": "MCQ",
+    "topics": ["Physiology", "Cell Biology", "Transport", "Neurophysiology", "Hematology", "Endocrine", "Muscular System", "Circulatory System", "Pathophysiology", "Urinary System"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Question. Goodluck"
+  },
+
+  {
+    "type": "heading",
+    "heading": "Section A: General Physiology Concepts",
+    "Subheading": "Cell Membrane and Transport"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": ["Physiology", "Cell Biology"],
+    "Question": {
+      "content": "Which of the following best describes the function of the plasma membrane?",
+      "type": "OBJ",
+      "options": [
+        "Allows the cell to interact with other cells",
+        "Regulates the movement of substances in and out of the cell",
+        "Provides structure and support to the cell",
+        "Stores genetic information"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Regulates the movement of substances in and out of the cell"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🚪 Quick take:</strong> Plasma membrane = <strong>gatekeeper</strong> — decides what enters and leaves the cell.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": ["Physiology", "Cell Biology", "Transport"],
+    "Question": {
+      "content": "What is the role of the sodium-potassium pump?",
+      "type": "OBJ",
+      "options": [
+        "It generates ATP for energy",
+        "It helps in cell communication",
+        "It maintains the resting membrane potential by pumping sodium out and potassium in",
+        "It synthesizes proteins"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It maintains the resting membrane potential by pumping sodium out and potassium in"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🔋 Quick take:</strong> 3 Na⁺ out, 2 K⁺ in — creates the <strong>battery charge</strong> cells need to work.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": ["Physiology", "Cell Biology"],
+    "Question": {
+      "content": "Which of the following is NOT a function of the plasma membrane?",
+      "type": "OBJ",
+      "options": [
+        "Providing a selective barrier",
+        "Facilitating nutrient absorption",
+        "Synthesizing proteins",
+        "Allowing communication with other cells"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Synthesizing proteins"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🏭 Quick take:</strong> Protein synthesis happens at <strong>ribosomes</strong>, not the membrane.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": ["Physiology", "Cell Biology", "Transport"],
+    "Question": {
+      "content": "Which of the following best describes facilitated diffusion?",
+      "type": "OBJ",
+      "options": [
+        "The movement of molecules from a lower to higher concentration using ATP",
+        "The movement of molecules down their concentration gradient with the help of a transport protein",
+        "The movement of molecules through the lipid bilayer",
+        "The movement of water across the membrane"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The movement of molecules down their concentration gradient with the help of a transport protein"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🚪 Quick take:</strong> Downhill movement (no energy) through a <strong>protein door</strong>.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": ["Physiology", "Neurophysiology"],
+    "Question": {
+      "content": "The resting membrane potential is primarily due to:",
+      "type": "OBJ",
+      "options": [
+        "The active transport of potassium and sodium ions",
+        "The passive movement of potassium ions into the cell",
+        "The diffusion of water molecules",
+        "The synthesis of ATP in mitochondria"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The active transport of potassium and sodium ions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>⚡ Quick take:</strong> Na⁺/K⁺ pump creates the ion imbalance that gives us <strong>-70mV</strong> resting charge.</p>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Section B: Blood Physiology",
+    "Subheading": "RBCs, Hemoglobin, and Disorders"
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": ["Physiology", "Hematology"],
+    "Question": {
+      "content": "What is the primary function of hemoglobin in red blood cells?",
+      "type": "OBJ",
+      "options": [
+        "To transport nutrients",
+        "To regulate blood pressure",
+        "To carry oxygen from the lungs to tissues",
+        "To produce blood clots"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To carry oxygen from the lungs to tissues"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🩸 Quick take:</strong> Hemoglobin = <strong>oxygen taxi</strong> — picks up O₂ in lungs, drops off at tissues.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": ["Physiology", "Hematology"],
+    "Question": {
+      "content": "Which of the following causes polycythemia?",
+      "type": "OBJ",
+      "options": [
+        "Reduced erythropoietin production",
+        "An increase in erythropoietin production leading to excess red blood cell production",
+        "A decrease in platelet production",
+        "A decrease in white blood cells"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "An increase in erythropoietin production leading to excess red blood cell production"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>📈 Quick take:</strong> Too much EPO = <strong>too many RBCs</strong> → blood thickens.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": ["Physiology", "Hematology"],
+    "Question": {
+      "content": "Which blood disorder is characterized by a reduced number of platelets?",
+      "type": "OBJ",
+      "options": [
+        "Leukemia",
+        "Anemia",
+        "Thrombocytopenia",
+        "Hemophilia"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Thrombocytopenia"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🩸 Quick take:</strong> \"Thrombo\" = clot, \"penia\" = low → <strong>low platelets</strong> = bleeding risk.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": ["Physiology", "Hematology"],
+    "Question": {
+      "content": "What is the role of erythropoietin in red blood cell production?",
+      "type": "OBJ",
+      "options": [
+        "It stimulates the production of white blood cells",
+        "It stimulates the production of platelets",
+        "It stimulates the production of red blood cells in the bone marrow",
+        "It regulates blood clotting"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It stimulates the production of red blood cells in the bone marrow"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🏭 Quick take:</strong> EPO = <strong>\"make more RBCs\"</strong> memo from kidneys to bone marrow.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": ["Physiology", "Endocrine", "Hematology"],
+    "Question": {
+      "content": "Which of the following hormones plays a key role in regulating blood calcium levels?",
+      "type": "OBJ",
+      "options": [
+        "Insulin",
+        "Parathyroid hormone",
+        "Erythropoietin",
+        "Thyroid hormone"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Parathyroid hormone"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🦴 Quick take:</strong> PTH = <strong>calcium manager</strong> — raises blood Ca²⁺ when low.</p>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Section C: Muscle Physiology",
+    "Subheading": "Contraction and Fiber Types"
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": ["Physiology", "Muscular System"],
+    "Question": {
+      "content": "Which type of muscle is responsible for voluntary movements?",
+      "type": "OBJ",
+      "options": [
+        "Smooth muscle",
+        "Cardiac muscle",
+        "Skeletal muscle",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Skeletal muscle"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>💪 Quick take:</strong> Skeletal = <strong>under your control</strong> (you choose to move).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": ["Physiology", "Muscular System"],
+    "Question": {
+      "content": "The sliding filament theory of muscle contraction involves the interaction between:",
+      "type": "OBJ",
+      "options": [
+        "Actin and myosin",
+        "Sodium and potassium",
+        "Calcium and potassium",
+        "Troponin and tropomyosin"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Actin and myosin"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🪢 Quick take:</strong> Actin (thin) + Myosin (thick) <strong>slide past each other</strong> to shorten muscle.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": ["Physiology", "Muscular System"],
+    "Question": {
+      "content": "Which of the following is true regarding cardiac muscle contraction?",
+      "type": "OBJ",
+      "options": [
+        "It is controlled by voluntary neural inputs",
+        "It uses the sliding filament mechanism like skeletal muscles",
+        "Calcium is not involved in the contraction process",
+        "It relies on external oxygen for energy production"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It uses the sliding filament mechanism like skeletal muscles"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>❤️ Quick take:</strong> Same <strong>actin-myosin sliding</strong> as skeletal — just different control system.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": ["Physiology", "Muscular System"],
+    "Question": {
+      "content": "What causes muscle fatigue during prolonged exercise?",
+      "type": "OBJ",
+      "options": [
+        "Depletion of oxygen",
+        "Accumulation of lactic acid",
+        "Depletion of glucose",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>😮‍💨 Quick take:</strong> No fuel (glucose), no oxygen, waste buildup (lactic acid) → <strong>muscle says stop</strong>.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": ["Physiology", "Muscular System"],
+    "Question": {
+      "content": "Which ion is crucial for the contraction of both skeletal and cardiac muscles?",
+      "type": "OBJ",
+      "options": [
+        "Sodium (Na⁺)",
+        "Potassium (K⁺)",
+        "Calcium (Ca²⁺)",
+        "Magnesium (Mg²⁺)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Calcium (Ca²⁺)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🔑 Quick take:</strong> Ca²⁺ = <strong>key that unlocks</strong> contraction in all muscles.</p>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Section D: Cardiac Physiology",
+    "Subheading": "Conduction, Output, and Regulation"
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": ["Physiology", "Circulatory System"],
+    "Question": {
+      "content": "Which of the following correctly describes the cardiac conduction system?",
+      "type": "OBJ",
+      "options": [
+        "It includes the sinoatrial node (SA node), atrioventricular node (AV node), and Purkinje fibers",
+        "It only includes the AV node and ventricles",
+        "It is primarily responsible for nutrient and oxygen transport",
+        "It operates independently of nervous control"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It includes the sinoatrial node (SA node), atrioventricular node (AV node), and Purkinje fibers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>⚡ Quick take:</strong> SA node → AV node → Purkinje fibers = <strong>heart's electrical wiring</strong>.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": ["Physiology", "Circulatory System"],
+    "Question": {
+      "content": "What is the primary function of the baroreceptor reflex?",
+      "type": "OBJ",
+      "options": [
+        "To regulate the heart rate",
+        "To maintain blood pressure homeostasis",
+        "To increase blood oxygen levels",
+        "To regulate the release of insulin"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To maintain blood pressure homeostasis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🌡️ Quick take:</strong> Body's <strong>BP thermostat</strong> — keeps pressure stable moment to moment.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": ["Physiology", "Pathophysiology", "Circulatory System"],
+    "Question": {
+      "content": "Which of the following is a major cause of myocardial infarction?",
+      "type": "OBJ",
+      "options": [
+        "High blood pressure",
+        "Atherosclerosis and the rupture of plaques",
+        "Low blood oxygen levels",
+        "Excessive exercise"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Atherosclerosis and the rupture of plaques"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>💔 Quick take:</strong> Plaque ruptures → clot blocks artery → <strong>heart attack</strong>.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": ["Physiology", "Circulatory System"],
+    "Question": {
+      "content": "Which of the following factors directly influences cardiac output?",
+      "type": "OBJ",
+      "options": [
+        "Stroke volume and heart rate",
+        "Platelet count",
+        "Blood clotting factors",
+        "Lung capacity"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Stroke volume and heart rate"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>📊 Quick take:</strong> CO = HR × SV — <strong>beats per minute × blood per beat</strong>.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": ["Physiology", "Circulatory System"],
+    "Question": {
+      "content": "In which part of the heart does the electrical impulse originate?",
+      "type": "OBJ",
+      "options": [
+        "Right atrium",
+        "Left ventricle",
+        "Sinoatrial (SA) node",
+        "Atrioventricular (AV) node"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sinoatrial (SA) node"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>⏰ Quick take:</strong> SA node = <strong>natural pacemaker</strong> — starts every heartbeat.</p>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Section E: Fluid and Electrolyte Balance",
+    "Subheading": "Kidney Function and Hormones"
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": ["Physiology", "Urinary System"],
+    "Question": {
+      "content": "Which of the following is the primary function of the kidneys in maintaining homeostasis?",
+      "type": "OBJ",
+      "options": [
+        "Hormone production",
+        "Regulation of blood pH and electrolyte balance",
+        "Breakdown of fats",
+        "Protection from infection"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Regulation of blood pH and electrolyte balance"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>💧 Quick take:</strong> Kidneys = <strong>master chemists</strong> — balance water, salt, and pH.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": ["Physiology", "Muscular System"],
+    "Question": {
+      "content": "Which electrolyte is most commonly involved in muscle contraction and relaxation?",
+      "type": "OBJ",
+      "options": [
+        "Sodium (Na⁺)",
+        "Calcium (Ca²⁺)",
+        "Chloride (Cl⁻)",
+        "Potassium (K⁺)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Calcium (Ca²⁺)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🔑 Quick take:</strong> Ca²⁺ = <strong>contraction trigger</strong> — no calcium, no squeeze.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": ["Physiology", "Urinary System", "Endocrine"],
+    "Question": {
+      "content": "What is the effect of aldosterone on the kidneys?",
+      "type": "OBJ",
+      "options": [
+        "It increases sodium excretion",
+        "It increases potassium excretion",
+        "It promotes water retention by increasing sodium reabsorption",
+        "It inhibits water reabsorption"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It promotes water retention by increasing sodium reabsorption"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>💊 Quick take:</strong> Aldosterone = <strong>\"save salt\"</strong> → water follows → BP rises.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": ["Physiology", "Urinary System", "Endocrine"],
+    "Question": {
+      "content": "Which hormone regulates the amount of water reabsorbed by the kidneys?",
+      "type": "OBJ",
+      "options": [
+        "Insulin",
+        "Antidiuretic hormone (ADH)",
+        "Thyroid hormone",
+        "Cortisol"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Antidiuretic hormone (ADH)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>💧 Quick take:</strong> ADH = <strong>\"hold water\"</strong> hormone — makes urine concentrated.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": ["Physiology", "Pathophysiology"],
+    "Question": {
+      "content": "What is the primary cause of edema?",
+      "type": "OBJ",
+      "options": [
+        "Increased hydrostatic pressure in the capillaries",
+        "Decreased sodium levels",
+        "Increased albumin production",
+        "Decreased blood volume"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Increased hydrostatic pressure in the capillaries"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🧽 Quick take:</strong> Too much pressure in pipes → <strong>fluid pushed into tissues</strong> = swelling.</p>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Section F: Endocrine Physiology",
+    "Subheading": "Hormones and Their Functions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": ["Physiology", "Endocrine"],
+    "Question": {
+      "content": "Which of the following hormones is involved in the regulation of blood calcium levels?",
+      "type": "OBJ",
+      "options": [
+        "Parathyroid hormone",
+        "Insulin",
+        "Thyroxine",
+        "Cortisol"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Parathyroid hormone"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🦴 Quick take:</strong> PTH = <strong>calcium up</strong> — pulls Ca²⁺ from bones, gut, and saves it in kidneys.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": ["Physiology", "Endocrine"],
+    "Question": {
+      "content": "The primary function of insulin is to:",
+      "type": "OBJ",
+      "options": [
+        "Increase blood glucose levels",
+        "Decrease blood glucose levels",
+        "Stimulate protein breakdown",
+        "Stimulate sodium retention"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Decrease blood glucose levels"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🍬 Quick take:</strong> Insulin = <strong>key to unlock cells</strong> — lets glucose in, lowers blood sugar.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": ["Physiology", "Endocrine"],
+    "Question": {
+      "content": "What is the effect of thyroid hormones on metabolic rate?",
+      "type": "OBJ",
+      "options": [
+        "Decrease metabolic rate",
+        "Have no effect on metabolic rate",
+        "Increase metabolic rate",
+        "Stimulate fat storage"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Increase metabolic rate"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🔥 Quick take:</strong> Thyroid = <strong>body's gas pedal</strong> — speeds up metabolism.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": ["Physiology", "Endocrine", "Pathophysiology"],
+    "Question": {
+      "content": "Which endocrine disorder is characterized by excessive thirst, frequent urination, and high blood glucose levels?",
+      "type": "OBJ",
+      "options": [
+        "Hyperthyroidism",
+        "Diabetes mellitus",
+        "Addison's disease",
+        "Cushing's syndrome"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Diabetes mellitus"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🍬 Quick take:</strong> High blood sugar → spills into urine → <strong>thirst + frequent peeing</strong>.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": ["Physiology", "Endocrine"],
+    "Question": {
+      "content": "Which gland produces the hormone adrenaline (epinephrine)?",
+      "type": "OBJ",
+      "options": [
+        "Pituitary gland",
+        "Adrenal glands",
+        "Thyroid gland",
+        "Pancreas"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Adrenal glands"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>⚡ Quick take:</strong> Adrenals = <strong>\"fight or flight\" factory</strong> — makes adrenaline.</p>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Section G: Cellular Physiology",
+    "Subheading": "Membrane Structure and Organelles"
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": ["Physiology", "Cell Biology"],
+    "Question": {
+      "content": "Which of the following is true about the fluid mosaic model of the plasma membrane?",
+      "type": "OBJ",
+      "options": [
+        "It suggests that the membrane is rigid and immovable",
+        "It proposes that the membrane components are in constant motion and fluid-like",
+        "It states that the membrane is made only of lipids",
+        "It describes the structure of the nucleus"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It proposes that the membrane components are in constant motion and fluid-like"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🌊 Quick take:</strong> Membrane = <strong>oil slick with floating proteins</strong> — not rigid!</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "topic": ["Physiology", "Cell Biology"],
+    "Question": {
+      "content": "What is the role of cholesterol in the plasma membrane?",
+      "type": "OBJ",
+      "options": [
+        "It helps in the transport of molecules across the membrane",
+        "It provides structural support and fluidity to the membrane",
+        "It functions as a receptor for hormones",
+        "It stores genetic information"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It provides structural support and fluidity to the membrane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🛡️ Quick take:</strong> Cholesterol = <strong>membrane stabilizer</strong> — keeps it flexible but strong.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "topic": ["Physiology", "Cell Biology"],
+    "Question": {
+      "content": "Which of the following is a primary function of the Golgi apparatus in a cell?",
+      "type": "OBJ",
+      "options": [
+        "Protein synthesis",
+        "Protein modification and packaging for transport",
+        "Production of ATP",
+        "Maintaining the shape of the cell"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Protein modification and packaging for transport"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>📦 Quick take:</strong> Golgi = <strong>cell's post office</strong> — modifies and ships proteins.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "topic": ["Physiology", "Cell Biology", "Transport"],
+    "Question": {
+      "content": "Which of the following transport mechanisms requires ATP?",
+      "type": "OBJ",
+      "options": [
+        "Diffusion",
+        "Facilitated diffusion",
+        "Active transport",
+        "Osmosis"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Active transport"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>⚡ Quick take:</strong> Active = <strong>uphill movement</strong> — needs energy (ATP).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "topic": ["Physiology", "Cell Biology"],
+    "Question": {
+      "content": "The process of endocytosis involves:",
+      "type": "OBJ",
+      "options": [
+        "The cell engulfing liquid substances from the extracellular environment",
+        "The movement of water through the cell membrane",
+        "The engulfing of solid particles or pathogens into vesicles",
+        "The cell releasing substances to the extracellular space"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The engulfing of solid particles or pathogens into vesicles"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🍽️ Quick take:</strong> Endocytosis = <strong>cell eating/drinking</strong> — wraps around and pulls in.</p>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Section H: Blood Physiology (Continued)",
+    "Subheading": "Blood Groups, Cells, and Clotting"
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "topic": ["Physiology", "Hematology"],
+    "Question": {
+      "content": "Which of the following is a characteristic of polycythemia?",
+      "type": "OBJ",
+      "options": [
+        "Decreased hemoglobin production",
+        "Increased number of red blood cells",
+        "Reduced RBC lifespan",
+        "Decreased white blood cell count"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Increased number of red blood cells"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>📈 Quick take:</strong> Polycythemia = <strong>too many RBCs</strong> — blood thickens.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "topic": ["Physiology", "Hematology"],
+    "Question": {
+      "content": "Which blood group is known as the universal donor?",
+      "type": "OBJ",
+      "options": [
+        "Type A",
+        "Type B",
+        "Type AB",
+        "Type O"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Type O"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🩸 Quick take:</strong> Type O = <strong>no A/B antigens</strong> — can give to anyone.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "topic": ["Physiology", "Hematology"],
+    "Question": {
+      "content": "Which of the following is NOT a cause of thrombocytopenia?",
+      "type": "OBJ",
+      "options": [
+        "Bone marrow failure",
+        "Excessive blood loss",
+        "Autoimmune destruction of platelets",
+        "Dehydration"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Dehydration"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>💧 Quick take:</strong> Dehydration <strong>concentrates</strong> platelets — doesn't lower count.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "topic": ["Physiology", "Hematology"],
+    "Question": {
+      "content": "Which is the primary function of white blood cells (WBCs)?",
+      "type": "OBJ",
+      "options": [
+        "Carry oxygen",
+        "Aid in blood clotting",
+        "Fight infections and provide immunity",
+        "Transport nutrients"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fight infections and provide immunity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🛡️ Quick take:</strong> WBCs = <strong>immune army</strong> — fight invaders.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "topic": ["Physiology", "Hematology"],
+    "Question": {
+      "content": "What is the main function of fibrinogen in blood clotting?",
+      "type": "OBJ",
+      "options": [
+        "To create a clot by forming fibrin threads",
+        "To act as an enzyme for clot breakdown",
+        "To transport oxygen in the blood",
+        "To destroy pathogens"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To create a clot by forming fibrin threads"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🕸️ Quick take:</strong> Fibrinogen → fibrin = <strong>mesh that traps platelets</strong> to form clot.</p>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Section I: Muscle Physiology (Continued)",
+    "Subheading": "Muscle Types and Fiber Characteristics"
+  },
+  {
+    "type": "Question",
+    "name": "Question 41",
+    "topic": ["Physiology", "Muscular System"],
+    "Question": {
+      "content": "Which of the following is a characteristic of smooth muscle?",
+      "type": "OBJ",
+      "options": [
+        "It is striated and voluntary",
+        "It has one central nucleus per cell and is involuntary",
+        "It has multiple nuclei per cell and is voluntary",
+        "It is only found in the heart"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It has one central nucleus per cell and is involuntary"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🧠 Quick take:</strong> Smooth muscle = <strong>automatic</strong> (organs, blood vessels) — one nucleus.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 42",
+    "topic": ["Physiology", "Muscular System"],
+    "Question": {
+      "content": "The sliding filament theory explains how muscles contract by:",
+      "type": "OBJ",
+      "options": [
+        "The shortening of the myosin filaments",
+        "The sliding of actin filaments over myosin",
+        "The breaking of cross-bridges between myosin and actin",
+        "The release of calcium from the mitochondria"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The sliding of actin filaments over myosin"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🪢 Quick take:</strong> Filaments <strong>slide past each other</strong> — like oars pulling boat.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 43",
+    "topic": ["Physiology", "Muscular System"],
+    "Question": {
+      "content": "Which of the following ions is most involved in initiating muscle contraction?",
+      "type": "OBJ",
+      "options": [
+        "Calcium (Ca²⁺)",
+        "Sodium (Na⁺)",
+        "Potassium (K⁺)",
+        "Chloride (Cl⁻)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Calcium (Ca²⁺)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🔑 Quick take:</strong> Ca²⁺ = <strong>starter key</strong> — unlocks actin for myosin to grab.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 44",
+    "topic": ["Physiology", "Muscular System"],
+    "Question": {
+      "content": "Which type of muscle fiber is primarily used during long-duration, low-intensity exercise?",
+      "type": "OBJ",
+      "options": [
+        "Type I (Slow-twitch)",
+        "Type IIa (Fast-twitch, oxidative)",
+        "Type IIb (Fast-twitch, glycolytic)",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Type I (Slow-twitch)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🏃 Quick take:</strong> Type I = <strong>endurance fibers</strong> — slow but don't tire.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "topic": ["Physiology", "Muscular System"],
+    "Question": {
+      "content": "Which of the following is responsible for the regulation of cardiac muscle contraction?",
+      "type": "OBJ",
+      "options": [
+        "Autonomic nervous system",
+        "Skeletal muscle motor neurons",
+        "Hormonal regulation only",
+        "External electrical stimulation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Autonomic nervous system"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>❤️ Quick take:</strong> Heart = <strong>automatic</strong> — ANS speeds or slows it.</p>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Section J: Cardiac Physiology (Continued)",
+    "Subheading": "Heart Sounds, Output, and Reflexes"
+  },
+  {
+    "type": "Question",
+    "name": "Question 46",
+    "topic": ["Physiology", "Circulatory System"],
+    "Question": {
+      "content": "Which of the following describes the role of the sinoatrial (SA) node in the heart?",
+      "type": "OBJ",
+      "options": [
+        "It acts as the heart's natural pacemaker by initiating the electrical impulses",
+        "It pumps blood into the ventricles",
+        "It stimulates the release of epinephrine",
+        "It is involved in the contraction of skeletal muscles"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It acts as the heart's natural pacemaker by initiating the electrical impulses"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>⏰ Quick take:</strong> SA node = <strong>pacemaker</strong> — starts every heartbeat.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 47",
+    "topic": ["Physiology", "Circulatory System"],
+    "Question": {
+      "content": "What causes the \"dub\" sound of the heart?",
+      "type": "OBJ",
+      "options": [
+        "The closure of the atrioventricular (AV) valves",
+        "The closure of the semilunar valves",
+        "The contraction of the atria",
+        "The contraction of the ventricles"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The closure of the semilunar valves"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🎵 Quick take:</strong> \"Lub\" = AV valves close, <strong>\"Dub\" = semilunar valves close</strong>.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 48",
+    "topic": ["Physiology", "Circulatory System"],
+    "Question": {
+      "content": "Which factor does NOT influence cardiac output?",
+      "type": "OBJ",
+      "options": [
+        "Heart rate",
+        "Stroke volume",
+        "Blood viscosity",
+        "Oxygen concentration in the blood"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Oxygen concentration in the blood"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>📊 Quick take:</strong> CO = HR × SV — oxygen levels <strong>don't directly change</strong> the formula.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 49",
+    "topic": ["Physiology", "Pathophysiology", "Circulatory System"],
+    "Question": {
+      "content": "Hypertension can lead to which of the following complications?",
+      "type": "OBJ",
+      "options": [
+        "Decreased blood flow to organs",
+        "Decreased heart rate",
+        "Increased risk of clot formation in the veins",
+        "Atherosclerosis and stroke"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Atherosclerosis and stroke"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>⚠️ Quick take:</strong> High BP damages vessels → <strong>plaque buildup → stroke/heart attack</strong>.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 50",
+    "topic": ["Physiology", "Circulatory System"],
+    "Question": {
+      "content": "The baroreceptor reflex helps to regulate blood pressure by:",
+      "type": "OBJ",
+      "options": [
+        "Increasing heart rate and vasodilation",
+        "Decreasing heart rate and vasoconstriction",
+        "Decreasing heart rate and vasodilation",
+        "Increasing heart rate and vasoconstriction"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Decreasing heart rate and vasodilation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🌡️ Quick take:</strong> High BP detected → <strong>slow heart + relax vessels</strong> → BP drops.</p>\n</div>"
+    }
+  }
+]
+
