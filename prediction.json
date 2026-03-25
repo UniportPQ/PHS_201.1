@@ -1,0 +1,405 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Peace and Conflicts Resolution",
+    "code": "PHS 201.1",
+    "session": "Prediction",
+    "topics": ["Physiology", "Cell Biology", "Anatomy", "Muscular System", "Transport", "Nervous System", "Neurons", "Hematology", "Circulatory System", "Pathophysiology", "Urinary System", "Homeostasis", "Fluid Balance", "Endocrine System", "Cardiovascular", "Biochemistry", "Metabolism"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Question. Goodluck"
+  },
+  {
+    "type": "heading",
+    "heading": "Cell Physiology",
+    "Subheading": "Structure and Function"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "Physiology",
+      "Cell Biology",
+      "Anatomy"
+    ],
+    "Question": {
+      "content": "Explain the structure of the cell membrane and its role in maintaining cellular homeostasis.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The cell membrane is a phospholipid bilayer with embedded proteins (fluid mosaic model). It maintains homeostasis through selective permeability, transport proteins, and receptors."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0;'><strong>🎯 Quick Analogy:</strong> The cell membrane is like a <strong>nightclub bouncer</strong>.</p>\n  <ul style='margin: 0; padding-left: 20px;'>\n    <li><strong>Phospholipid bilayer</strong> = the club walls — lets small things pass, blocks big ones</li>\n    <li><strong>Channel proteins</strong> = VIP doors — let specific guests in</li>\n    <li><strong>Receptor proteins</strong> = the bouncer's walkie-talkie — receives signals from outside</li>\n  </ul>\n  <p style='margin: 10px 0 0 0;'>Together, they keep the inside environment stable no matter what's happening outside.</p>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Muscle Physiology",
+    "Subheading": "Contraction Mechanisms"
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "Physiology",
+      "Anatomy",
+      "Muscular System"
+    ],
+    "Question": {
+      "content": "Discuss the mechanisms of muscle contraction in skeletal and cardiac muscles.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Both use sliding filament theory. Skeletal: nerve signal triggers Ca²⁺ release from SR, enabling cross-bridge cycling. Cardiac: spontaneous signals, Ca²⁺-induced Ca²⁺ release, longer contraction, no tetanus."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0;'><strong>💪 Simple Version:</strong></p>\n  <p style='margin: 0 0 8px 0;'><strong>Skeletal muscle</strong> = <strong>Rowing team</strong> — coach (nerve) yells \"row!\" → oars (myosin) pull boat (actin).</p>\n  <p style='margin: 0;'><strong>Cardiac muscle</strong> = <strong>Rowers with a pacemaker</strong> — they beat together automatically, can't cramp (so heart can refill blood).</p>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Membrane Transport",
+    "Subheading": "Passive vs. Active Mechanisms"
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Physiology",
+      "Cell Biology",
+      "Transport"
+    ],
+    "Question": {
+      "content": "Describe the processes of active transport and facilitated diffusion. How do these processes differ?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Facilitated diffusion: passive, down gradient, no energy (e.g., glucose transport). Active transport: uses ATP, against gradient (e.g., Na⁺/K⁺ pump)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0;'><strong>🚪 Simple Analogy:</strong></p>\n  <p style='margin: 0 0 8px 0;'><strong>Facilitated diffusion</strong> = sliding door — you walk through <strong>without effort</strong> (downhill).</p>\n  <p style='margin: 0;'><strong>Active transport</strong> = pushing door open against wind — takes <strong>energy</strong> (ATP) to get through (uphill).</p>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Neurophysiology",
+    "Subheading": "Membrane Potential and Signaling"
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": [
+      "Physiology",
+      "Nervous System",
+      "Neurons"
+    ],
+    "Question": {
+      "content": "Explain the concept of membrane potential. How does it contribute to the function of neurons and muscle cells?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Membrane potential is voltage difference across membrane (resting ~-70mV). Maintained by Na⁺/K⁺ pump and K⁺ leak channels. Action potentials allow nerve signaling and trigger muscle contraction."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0;'><strong>🔋 Simple Version:</strong> Membrane potential = cell's <strong>battery</strong>.</p>\n  <ul style='margin: 0; padding-left: 20px;'>\n    <li>Resting = battery <strong>charged</strong> (-70mV inside)</li>\n    <li>Stimulus = <strong>trigger</strong> — sodium rushes in → charge flips to +</li>\n    <li>This flip (<strong>action potential</strong>) = signal that travels down nerves and tells muscles to contract</li>\n  </ul>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Hematology",
+    "Subheading": "Blood Cell Formation and Regulation"
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": [
+      "Physiology",
+      "Hematology",
+      "Circulatory System"
+    ],
+    "Question": {
+      "content": "Discuss the process of erythropoiesis and the regulation of red blood cell production.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Erythropoiesis: RBC production in bone marrow from stem cells. Regulated by erythropoietin (EPO) from kidneys in response to low oxygen. Requires iron and vitamin B12."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0;'><strong>🏭 Simple Analogy:</strong> Bone marrow = <strong>RBC factory</strong>.</p>\n  <ul style='margin: 0; padding-left: 20px;'>\n    <li>Kidneys = <strong>oxygen sensors</strong> — when oxygen low, they send memo (EPO): \"Speed up!\"</li>\n    <li>Iron = <strong>raw material</strong> for hemoglobin (cargo boxes)</li>\n    <li>Vitamin B12 = <strong>assembly line lubricant</strong> — prevents defects</li>\n  </ul>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Hematology",
+    "Subheading": "Anemias"
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": [
+      "Physiology",
+      "Hematology",
+      "Pathophysiology"
+    ],
+    "Question": {
+      "content": "What are the types of anemia? Discuss the causes, symptoms, and treatments of iron-deficiency anemia and vitamin B12 deficiency anemia.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Iron-deficiency: blood loss, poor intake → fatigue, pale, brittle nails. Treat with iron supplements. B12 deficiency: malabsorption, pernicious anemia → fatigue + nerve symptoms. Treat with B12 injections."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0;'><strong>🚚 Simple Analogy:</strong> RBCs = <strong>delivery trucks</strong> for oxygen.</p>\n  <p style='margin: 0 0 8px 0;'><strong>Iron-deficiency</strong> = trucks have <strong>no cargo</strong> (no hemoglobin) — fix by adding iron.</p>\n  <p style='margin: 0;'><strong>B12 deficiency</strong> = factory makes <strong>few, giant, broken trucks</strong> (plus electrical problems in nerves) — fix by injecting B12 (bypasses broken lock).</p>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Cardiovascular Physiology",
+    "Subheading": "Blood Pressure Regulation"
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": [
+      "Physiology",
+      "Circulatory System",
+      "Nervous System"
+    ],
+    "Question": {
+      "content": "What is the baroreceptor reflex? Explain its role in regulating blood pressure.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Baroreceptor reflex: negative feedback loop maintaining BP. Sensors in arteries detect pressure changes → medulla adjusts heart rate and vessel diameter via sympathetic/parasympathetic nerves."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0;'><strong>🌡️ Simple Analogy:</strong> BP = room temperature. Baroreceptor reflex = <strong>thermostat</strong>.</p>\n  <ul style='margin: 0; padding-left: 20px;'>\n    <li>BP too high → brain says <strong>\"apply brake\"</strong> → heart slows, vessels relax → BP drops</li>\n    <li>BP too low → brain says <strong>\"hit accelerator\"</strong> → heart speeds, vessels tighten → BP rises</li>\n  </ul>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Pathophysiology",
+    "Subheading": "Cardiovascular Diseases"
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": [
+      "Physiology",
+      "Pathophysiology",
+      "Circulatory System"
+    ],
+    "Question": {
+      "content": "Explain the pathophysiology of heart diseases, including hypertension and atherosclerosis.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hypertension: high BP from increased resistance or volume → heart thickens, risk of failure. Atherosclerosis: plaque buildup from endothelial injury + inflammation → narrows arteries, rupture causes heart attack/stroke."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0;'><strong>🚰 Simple Analogy:</strong> Arteries = <strong>pipes</strong>. Heart = <strong>pump</strong>.</p>\n  <ul style='margin: 0; padding-left: 20px;'>\n    <li><strong>Hypertension</strong> = pipes squeezed tight → pump works too hard → pump walls thicken (bad!)</li>\n    <li><strong>Atherosclerosis</strong> = gunk (plaque) builds up in pipes → if gunk bursts, clot blocks pipe → <strong>heart attack</strong></li>\n  </ul>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Renal Physiology",
+    "Subheading": "Fluid and Electrolyte Balance"
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": [
+      "Physiology",
+      "Urinary System",
+      "Homeostasis"
+    ],
+    "Question": {
+      "content": "Describe the role of the kidney in maintaining fluid and electrolyte balance.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Kidneys maintain balance via filtration (blood to tubule), reabsorption (back to blood), and secretion (blood to tubule). Adjust water and ion levels based on hormones."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0;'><strong>💧 Simple Version:</strong> Kidney = <strong>water treatment plant</strong>.</p>\n  <ul style='margin: 0; padding-left: 20px;'>\n    <li><strong>Filtration</strong> = strainer — catches big stuff, lets water + small stuff through</li>\n    <li><strong>Reabsorption</strong> = recovery — keeps what body needs (water, salt)</li>\n    <li><strong>Secretion</strong> = waste dumping — adds extra junk to urine</li>\n  </ul>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Pathophysiology",
+    "Subheading": "Edema Formation"
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": [
+      "Physiology",
+      "Pathophysiology",
+      "Fluid Balance"
+    ],
+    "Question": {
+      "content": "Discuss the mechanisms of edema formation. What factors contribute to fluid shifts between compartments?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Edema = fluid in tissues. Causes: high capillary pressure (heart failure), low plasma protein (liver/kidney disease), leaky vessels (inflammation), blocked lymphatics (surgery/infection)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0;'><strong>🧽 Simple Analogy:</strong> Tissues = <strong>sponge</strong>. Capillaries = <strong>pipes</strong>.</p>\n  <ul style='margin: 0; padding-left: 20px;'>\n    <li>Too much push out (high pressure) → water soaks sponge</li>\n    <li>Not enough suck back (low protein) → water stays in sponge</li>\n    <li>Leaky pipes (inflammation) → water + proteins gush out → proteins hold water</li>\n    <li>Clogged drains (lymph blockage) → sponge never dries</li>\n  </ul>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Renal Physiology",
+    "Subheading": "Hormonal Regulation of Electrolytes"
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": [
+      "Physiology",
+      "Urinary System",
+      "Endocrine System"
+    ],
+    "Question": {
+      "content": "How do the kidneys regulate sodium, potassium, and calcium homeostasis?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Na⁺: aldosterone increases reabsorption. K⁺: aldosterone increases secretion. Ca²⁺: PTH increases reabsorption and activates vitamin D."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0;'><strong>📋 Quick Hormone Guide:</strong></p>\n  <ul style='margin: 0; padding-left: 20px;'>\n    <li><strong>Aldosterone</strong> = \"save salt, dump potassium\" manager</li>\n    <li><strong>PTH</strong> = \"save calcium, dump phosphate\" manager</li>\n    <li><strong>ADH</strong> = \"save water\" manager</li>\n  </ul>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Cardiovascular Physiology",
+    "Subheading": "Cardiac Output"
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": [
+      "Physiology",
+      "Circulatory System",
+      "Cardiovascular"
+    ],
+    "Question": {
+      "content": "Explain the concept of cardiac output. What factors influence heart rate and stroke volume?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cardiac output = heart rate × stroke volume. HR: ANS (sympathetic ↑, parasympathetic ↓), hormones. SV: preload (venous return), contractility, afterload (arterial pressure)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0;'><strong>🚗 Simple Analogy:</strong> Heart = <strong>car engine</strong>.</p>\n  <ul style='margin: 0; padding-left: 20px;'>\n    <li><strong>Heart rate</strong> = RPM — accelerator (sympathetic) speeds it, brake (parasympathetic) slows it</li>\n    <li><strong>Stroke volume</strong> = power per pump — depends on fuel (blood returning), engine strength (contractility), and road resistance (afterload)</li>\n  </ul>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Cell Physiology",
+    "Subheading": "Ion Gradients and the Sodium-Potassium Pump"
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": [
+      "Physiology",
+      "Cell Biology",
+      "Transport"
+    ],
+    "Question": {
+      "content": "Discuss the importance of ion gradients, especially the sodium-potassium pump, in cellular function.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Na⁺/K⁺ pump maintains gradients (3 Na⁺ out, 2 K⁺ in). This creates resting potential, enables action potentials, drives secondary active transport, and regulates cell volume."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0;'><strong>🔋 Simple Analogy:</strong> Na⁺/K⁺ pump = <strong>cell's battery charger</strong>.</p>\n  <ul style='margin: 0; padding-left: 20px;'>\n    <li>Creates battery charge (resting potential)</li>\n    <li>Powers nerve signals (action potential)</li>\n    <li>Powers other transporters (uses sodium gradient like a river current to pull in glucose)</li>\n    <li>Prevents swelling (keeps ions balanced so water doesn't flood in)</li>\n  </ul>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Biochemistry",
+    "Subheading": "Glycolysis"
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": [
+      "Biochemistry",
+      "Metabolism",
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "What is glycolysis? Describe the steps involved and the net production of ATP.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Glycolysis: breaks glucose into 2 pyruvate in cytoplasm. Net: 2 ATP, 2 NADH. Stages: investment (uses 2 ATP) then payoff (makes 4 ATP)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0;'><strong>💰 Simple Analogy:</strong> Glycolysis = <strong>small business</strong>.</p>\n  <ul style='margin: 0; padding-left: 20px;'>\n    <li><strong>Investment phase</strong> = spend 2 ATP to get set up</li>\n    <li><strong>Payoff phase</strong> = earn 4 ATP</li>\n    <li><strong>Net profit</strong> = <strong>2 ATP</strong> + 2 NADH (batteries for later)</li>\n  </ul>\n  <p style='margin: 8px 0 0 0;'>Equation: Glucose → 2 pyruvate + 2 ATP + 2 NADH</p>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Biochemistry",
+    "Subheading": "Cellular Respiration"
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": [
+      "Biochemistry",
+      "Metabolism",
+      "Cell Biology"
+    ],
+    "Question": {
+      "content": "How do metabolic processes such as the Krebs cycle and oxidative phosphorylation contribute to energy production in cells?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Krebs cycle: completes glucose breakdown, produces NADH/FADH₂ and 2 ATP. Oxidative phosphorylation: uses NADH/FADH₂ to pump protons, ATP synthase makes ~28 ATP."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0;'><strong>⚡ Simple Analogy:</strong> Mitochondria = <strong>hydroelectric dam</strong>.</p>\n  <ul style='margin: 0; padding-left: 20px;'>\n    <li><strong>Krebs cycle</strong> = prepares electrons (loads batteries NADH/FADH₂)</li>\n    <li><strong>Electron transport chain</strong> = electrons flow downhill → pumps protons uphill (creates reservoir)</li>\n    <li><strong>ATP synthase</strong> = water wheel — protons flow back through it → spins → makes ~28 ATP</li>\n  </ul>\n  <p style='margin: 8px 0 0 0;'><strong>Total from 1 glucose:</strong> ~30-32 ATP (vs only 2 from glycolysis alone!)</p>\n</div>"
+    }
+  }
+]
