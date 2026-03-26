@@ -1,8 +1,8 @@
 [
   {
     "type": "pageInfo",
-    "kind": "subjective",
-    "course_title": "Peace and Conflicts Resolution",
+    "kind": "MCQ",
+    "course_title": "Human Physiology",
     "code": "PHS 201.1",
     "session": "MCQ",
     "topics": ["Physiology", "Cell Biology", "Transport", "Neurophysiology", "Hematology", "Endocrine", "Muscular System", "Circulatory System", "Pathophysiology", "Urinary System"],
@@ -10,9 +10,8 @@
   },
   {
     "type": "Instruction",
-    "content": "Answer all Question. Goodluck"
+    "content": "Answer all questions. Select the best option for each. Good luck!"
   },
-
   {
     "type": "heading",
     "heading": "Section A: General Physiology Concepts",
@@ -38,7 +37,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🚪 Quick take:</strong> Plasma membrane = <strong>gatekeeper</strong> — decides what enters and leaves the cell.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>The Plasma Membrane as Gatekeeper</p>\n  <p style='margin: 0 0 10px 0;'>The plasma membrane is a selectively permeable barrier that controls the passage of substances into and out of the cell. This selective permeability is essential for maintaining the internal environment (homeostasis). While the membrane does facilitate cell interaction (A) and provides structural support (C), its primary defining function is <strong>regulation of transport</strong>. Genetic information is stored in the nucleus, not the membrane (D).</p>\n  <p style='margin: 0;'><strong>Key point:</strong> Without this regulatory function, the cell could not maintain ion gradients, acquire nutrients, or eliminate wastes.</p>\n</div>"
     }
   },
   {
@@ -61,7 +60,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🔋 Quick take:</strong> 3 Na⁺ out, 2 K⁺ in — creates the <strong>battery charge</strong> cells need to work.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>The Na⁺/K⁺ ATPase: Cellular Battery Charger</p>\n  <p style='margin: 0 0 10px 0;'>This active transport pump hydrolyzes one ATP to move <strong>3 sodium ions out</strong> and <strong>2 potassium ions in</strong>. This creates two critical gradients: a chemical gradient (high Na⁺ outside, high K⁺ inside) and an electrical gradient (net positive charge moved out, contributing to the negative resting potential).</p>\n  <p style='margin: 0;'><strong>Clinical relevance:</strong> The pump consumes about 30% of cellular ATP. Its inhibition by digitalis drugs increases cardiac contractility in heart failure patients.</p>\n</div>"
     }
   },
   {
@@ -84,7 +83,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🏭 Quick take:</strong> Protein synthesis happens at <strong>ribosomes</strong>, not the membrane.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Protein Synthesis: A Different Organelle's Job</p>\n  <p style='margin: 0 0 10px 0;'>Protein synthesis occurs at <strong>ribosomes</strong> (free in cytoplasm or attached to rough ER), not at the plasma membrane. The plasma membrane indeed acts as a selective barrier (A), facilitates nutrient absorption via transport proteins (B), and enables cell communication through receptors and gap junctions (D).</p>\n  <p style='margin: 0;'><strong>Exam tip:</strong> When a question asks \"NOT a function,\" look for processes that occur elsewhere in the cell.</p>\n</div>"
     }
   },
   {
@@ -107,7 +106,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🚪 Quick take:</strong> Downhill movement (no energy) through a <strong>protein door</strong>.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Facilitated Diffusion: Assisted Downhill Movement</p>\n  <p style='margin: 0 0 10px 0;'>Facilitated diffusion is a <strong>passive</strong> transport mechanism. Substances move from high to low concentration (downhill) without ATP expenditure, but they require specific <strong>carrier or channel proteins</strong> to cross the membrane. This is distinct from active transport (A, which requires ATP and moves against gradient), simple diffusion (C, which doesn't need proteins), and osmosis (D, which specifically refers to water movement).</p>\n  <p style='margin: 0;'><strong>Example:</strong> GLUT4 transporters facilitate glucose entry into muscle cells — glucose moves down its gradient, but needs the protein door to get in.</p>\n</div>"
     }
   },
   {
@@ -130,7 +129,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>⚡ Quick take:</strong> Na⁺/K⁺ pump creates the ion imbalance that gives us <strong>-70mV</strong> resting charge.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Resting Membrane Potential: The Battery of Life</p>\n  <p style='margin: 0 0 10px 0;'>The resting membrane potential (~-70 mV, inside negative) is established by the <strong>Na⁺/K⁺ ATPase</strong> creating concentration gradients (active transport), and then maintained by <strong>passive K⁺ efflux</strong> through leak channels. While option B mentions potassium movement, it incorrectly states \"into\" the cell — K⁺ actually leaks <strong>out</strong>. The primary driver is the active transport that sets up the gradients.</p>\n  <p style='margin: 0;'><strong>Key concept:</strong> The pump creates the gradients; leak channels use them to generate voltage.</p>\n</div>"
     }
   },
   {
@@ -158,7 +157,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🩸 Quick take:</strong> Hemoglobin = <strong>oxygen taxi</strong> — picks up O₂ in lungs, drops off at tissues.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Hemoglobin: The Oxygen Taxi</p>\n  <p style='margin: 0 0 10px 0;'>Hemoglobin is a metalloprotein containing four heme groups (each with iron) that reversibly bind oxygen. In the lungs (high PO₂), it loads oxygen; in tissues (low PO₂), it unloads oxygen. This <strong>oxygen-carrying capacity</strong> is its primary function. Hemoglobin also carries about 20% of CO₂ (as carbaminohemoglobin) but this is secondary. It does not transport nutrients (A), regulate BP (B — that's baroreceptors/RAAS), or clot blood (D — that's platelets and clotting factors).</p>\n  <p style='margin: 0;'><strong>Clinical note:</strong> Anemia reduces hemoglobin, impairing oxygen delivery — causing fatigue, pallor, and dyspnea.</p>\n</div>"
     }
   },
   {
@@ -181,7 +180,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>📈 Quick take:</strong> Too much EPO = <strong>too many RBCs</strong> → blood thickens.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Polycythemia: Too Many Red Blood Cells</p>\n  <p style='margin: 0 0 10px 0;'>Polycythemia is an abnormal increase in RBC mass. It can be <strong>primary</strong> (polycythemia vera — myeloproliferative neoplasm) or <strong>secondary</strong> (due to chronic hypoxia, e.g., high altitude, COPD, or EPO-secreting tumors). The common mechanism is <strong>excess erythropoietin (EPO)</strong> driving overproduction of RBCs in bone marrow. This increases blood viscosity, raising risk of thrombosis and stroke.</p>\n  <p style='margin: 0;'><strong>Differentiation:</strong> Reduced EPO (A) causes anemia, not polycythemia. Options C and D involve other cell lines (platelets, WBCs) and are unrelated to RBC excess.</p>\n</div>"
     }
   },
   {
@@ -204,7 +203,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🩸 Quick take:</strong> \"Thrombo\" = clot, \"penia\" = low → <strong>low platelets</strong> = bleeding risk.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Thrombocytopenia: Low Platelet Count</p>\n  <p style='margin: 0 0 10px 0;'>The term <strong>thrombocytopenia</strong> literally means \"low platelets\" (thrombo = clot, cyto = cell, penia = deficiency). Normal platelet count is 150,000-450,000/μL. Causes include bone marrow failure (aplastic anemia, chemotherapy), immune destruction (ITP), splenic sequestration, or DIC. Clinical manifestation is bleeding risk — petechiae, purpura, easy bruising, mucosal bleeding.</p>\n  <p style='margin: 0;'><strong>Differentiation:</strong> Leukemia (A) is WBC cancer; anemia (B) is low RBCs/hemoglobin; hemophilia (D) is clotting factor deficiency (normal platelet count).</p>\n</div>"
     }
   },
   {
@@ -227,7 +226,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🏭 Quick take:</strong> EPO = <strong>\"make more RBCs\"</strong> memo from kidneys to bone marrow.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Erythropoietin (EPO): The RBC Production Signal</p>\n  <p style='margin: 0 0 10px 0;'>EPO is a glycoprotein hormone produced primarily by peritubular interstitial cells in the kidneys (and some by the liver) in response to tissue hypoxia. It acts on erythroid progenitor cells in the bone marrow, promoting their proliferation, differentiation, and survival (preventing apoptosis). This increases RBC production, enhancing oxygen delivery. Recombinant EPO is used to treat anemia in chronic kidney disease.</p>\n  <p style='margin: 0;'><strong>Key point:</strong> EPO is specific to RBC lineage; WBCs (A) are regulated by colony-stimulating factors, platelets (B) by thrombopoietin, and clotting (D) by coagulation factors.</p>\n</div>"
     }
   },
   {
@@ -250,7 +249,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🦴 Quick take:</strong> PTH = <strong>calcium manager</strong> — raises blood Ca²⁺ when low.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Parathyroid Hormone (PTH): The Calcium Guardian</p>\n  <p style='margin: 0 0 10px 0;'>PTH is secreted by the parathyroid glands in response to low blood calcium. It raises calcium levels through three mechanisms: (1) stimulates bone resorption (releases Ca²⁺ from skeleton), (2) increases renal Ca²⁺ reabsorption (saves calcium in urine), and (3) activates vitamin D (increases intestinal Ca²⁺ absorption). Calcitonin (thyroid) has opposing but minor effects in adults.</p>\n  <p style='margin: 0;'><strong>Clinical correlation:</strong> Hyperparathyroidism causes hypercalcemia (\"stones, bones, groans, psychiatric overtones\"); hypoparathyroidism causes hypocalcemia (tetany, Chvostek's sign).</p>\n</div>"
     }
   },
   {
@@ -278,7 +277,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>💪 Quick take:</strong> Skeletal = <strong>under your control</strong> (you choose to move).</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Skeletal Muscle: Under Conscious Control</p>\n  <p style='margin: 0 0 10px 0;'>Skeletal muscle is striated and innervated by somatic motor neurons, allowing <strong>voluntary control</strong>. It attaches to bones via tendons and generates movement. In contrast, smooth muscle (A) is involuntary (found in organs, blood vessels), and cardiac muscle (B) is involuntary (heart, with intrinsic pacemaker).</p>\n  <p style='margin: 0;'><strong>Key concept:</strong> \"Voluntary\" means you consciously decide to contract it — raising your hand, walking, etc.</p>\n</div>"
     }
   },
   {
@@ -301,7 +300,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🪢 Quick take:</strong> Actin (thin) + Myosin (thick) <strong>slide past each other</strong> to shorten muscle.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Sliding Filament Theory: Actin Meets Myosin</p>\n  <p style='margin: 0 0 10px 0;'>The sliding filament theory describes contraction as <strong>actin (thin filaments) sliding over myosin (thick filaments)</strong>, shortening the sarcomere. Myosin heads bind to actin (forming cross-bridges), undergo power strokes (using ATP), and repeatedly attach/detach. Calcium (C) is the trigger but not the direct interactor; troponin/tropomyosin (D) are regulatory proteins that block/unblock binding sites.</p>\n  <p style='margin: 0;'><strong>Remember:</strong> The \"interaction\" that directly generates force is between actin and myosin filaments.</p>\n</div>"
     }
   },
   {
@@ -324,7 +323,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>❤️ Quick take:</strong> Same <strong>actin-myosin sliding</strong> as skeletal — just different control system.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Cardiac Muscle: Same Machinery, Different Control</p>\n  <p style='margin: 0 0 10px 0;'>Cardiac muscle shares the same <strong>sliding filament mechanism</strong> as skeletal muscle — actin and myosin interact, powered by ATP, triggered by calcium. However, it differs in: (A) it is involuntary (autonomic regulation, not voluntary), (C) calcium is absolutely essential (via calcium-induced calcium release), and (D) while it requires oxygen, it's not \"external\" oxygen per se — but all muscles use oxygen aerobically. The true statement is B.</p>\n  <p style='margin: 0;'><strong>Key difference:</strong> Cardiac muscle has a longer refractory period, preventing tetanus — ensuring rhythmic pumping.</p>\n</div>"
     }
   },
   {
@@ -347,7 +346,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>😮‍💨 Quick take:</strong> No fuel (glucose), no oxygen, waste buildup (lactic acid) → <strong>muscle says stop</strong>.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Muscle Fatigue: Multiple Factors</p>\n  <p style='margin: 0 0 10px 0;'>Muscle fatigue during prolonged exercise is multifactorial. <strong>Glucose depletion</strong> (glycogen stores exhausted) reduces ATP production. <strong>Oxygen depletion</strong> shifts metabolism to anaerobic glycolysis, leading to <strong>lactic acid accumulation</strong>, which lowers pH and inhibits enzyme function (especially phosphofructokinase). Other factors include inorganic phosphate accumulation, electrolyte imbalances, and central nervous system fatigue.</p>\n  <p style='margin: 0;'><strong>Clinical note:</strong> This is why carbohydrate loading (increasing glycogen stores) benefits endurance athletes.</p>\n</div>"
     }
   },
   {
@@ -370,7 +369,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🔑 Quick take:</strong> Ca²⁺ = <strong>key that unlocks</strong> contraction in all muscles.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Calcium: The Universal Contraction Trigger</p>\n  <p style='margin: 0 0 10px 0;'>In both skeletal and cardiac muscle, <strong>calcium (Ca²⁺)</strong> is the ion that initiates contraction by binding to troponin C. This causes a conformational change that shifts tropomyosin, exposing myosin-binding sites on actin, allowing cross-bridge cycling. While sodium (A) and potassium (B) are essential for action potentials (which trigger Ca²⁺ release), they do not directly initiate contraction. Magnesium (D) is a cofactor for ATPases but not the trigger.</p>\n  <p style='margin: 0;'><strong>Key concept:</strong> \"No calcium, no contraction\" — hypocalcemia causes muscle weakness and tetany.</p>\n</div>"
     }
   },
   {
@@ -398,7 +397,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>⚡ Quick take:</strong> SA node → AV node → Purkinje fibers = <strong>heart's electrical wiring</strong>.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Cardiac Conduction System: The Heart's Wiring</p>\n  <p style='margin: 0 0 10px 0;'>The cardiac conduction system consists of specialized myocardial cells that generate and conduct electrical impulses. The pathway: <strong>SA node (pacemaker)</strong> → atrial internodal tracts → <strong>AV node</strong> (delays impulse to allow atrial emptying) → bundle of His → bundle branches → <strong>Purkinje fibers</strong> (rapid ventricular conduction). While the heart can beat independently (automaticity), it is modulated by autonomic nerves — so D is false (it doesn't operate \"independently\" of control, though it can). Option C describes the circulatory system, not conduction.</p>\n  <p style='margin: 0;'><strong>Clinical correlation:</strong> SA node dysfunction requires pacemaker; AV block disrupts communication between atria and ventricles.</p>\n</div>"
     }
   },
   {
@@ -421,7 +420,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🌡️ Quick take:</strong> Body's <strong>BP thermostat</strong> — keeps pressure stable moment to moment.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Baroreceptor Reflex: Blood Pressure Thermostat</p>\n  <p style='margin: 0 0 10px 0;'>The baroreceptor reflex is a <strong>negative feedback loop</strong> that maintains mean arterial pressure (MAP) within a narrow range. Baroreceptors in the carotid sinus and aortic arch detect pressure changes. The medulla integrates this information and adjusts sympathetic/parasympathetic outflow to modify heart rate, contractility, and peripheral resistance — all to correct deviations from set point. While it regulates heart rate (A), that's a mechanism, not the primary goal. The ultimate goal is <strong>BP homeostasis</strong>.</p>\n  <p style='margin: 0;'><strong>Example:</strong> Standing up → BP drops → baroreceptor firing decreases → increased HR and vasoconstriction → BP restored.</p>\n</div>"
     }
   },
   {
@@ -444,7 +443,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>💔 Quick take:</strong> Plaque ruptures → clot blocks artery → <strong>heart attack</strong>.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Myocardial Infarction: When Plaque Ruptures</p>\n  <p style='margin: 0 0 10px 0;'>Myocardial infarction (heart attack) is most commonly caused by <strong>rupture of an atherosclerotic plaque</strong> in a coronary artery. The exposed plaque contents trigger platelet aggregation and thrombus formation, which occludes the vessel, causing ischemia and necrosis of downstream myocardium. While hypertension (A) is a major risk factor for atherosclerosis, it is not the direct cause. Low oxygen (C) is the result, not the cause. Exercise (D) can precipitate MI in someone with existing coronary artery disease, but the underlying cause is the ruptured plaque.</p>\n  <p style='margin: 0;'><strong>Pathophysiology:</strong> Vulnerable plaques have thin fibrous caps and large lipid cores — prone to rupture.</p>\n</div>"
     }
   },
   {
@@ -467,7 +466,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>📊 Quick take:</strong> CO = HR × SV — <strong>beats per minute × blood per beat</strong>.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Cardiac Output: The Fundamental Equation</p>\n  <p style='margin: 0 0 10px 0;'>Cardiac output (CO) is defined by the equation: <strong>CO = Heart Rate × Stroke Volume</strong>. Heart rate (beats per minute) and stroke volume (blood ejected per beat) are the only two direct determinants. Platelet count (B) affects hemostasis, clotting factors (C) affect coagulation, and lung capacity (D) affects gas exchange — none directly determine how much blood the heart pumps per minute.</p>\n  <p style='margin: 0;'><strong>Regulation:</strong> HR is influenced by autonomic nerves; SV by preload, contractility, and afterload.</p>\n</div>"
     }
   },
   {
@@ -490,7 +489,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>⏰ Quick take:</strong> SA node = <strong>natural pacemaker</strong> — starts every heartbeat.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>SA Node: The Heart's Natural Pacemaker</p>\n  <p style='margin: 0 0 10px 0;'>The <strong>sinoatrial (SA) node</strong> is located in the right atrial wall near the superior vena cava. It has the fastest intrinsic firing rate (60-100/min) and therefore serves as the dominant pacemaker, initiating each heartbeat. The impulse then spreads to the atria, reaches the AV node (D), and continues through the conduction system. While the SA node is in the right atrium (A), the specific structure is the SA node.</p>\n  <p style='margin: 0;'><strong>Clinical note:</strong> Sick sinus syndrome can require artificial pacemaker implantation.</p>\n</div>"
     }
   },
   {
@@ -518,7 +517,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>💧 Quick take:</strong> Kidneys = <strong>master chemists</strong> — balance water, salt, and pH.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Kidneys: Master Homeostatic Regulators</p>\n  <p style='margin: 0 0 10px 0;'>The kidneys maintain homeostasis primarily through <strong>regulation of fluid volume, electrolyte composition, and acid-base balance</strong>. They filter 180 L/day of plasma, selectively reabsorbing what the body needs and excreting excesses and wastes. While kidneys do produce hormones (EPO, renin, calcitriol) — that's a secondary function. Fat breakdown (C) occurs in liver/adipose; infection protection (D) is immune system function.</p>\n  <p style='margin: 0;'><strong>Key point:</strong> Without this regulation, plasma Na⁺, K⁺, Ca²⁺, and pH would rapidly become incompatible with life.</p>\n</div>"
     }
   },
   {
@@ -541,7 +540,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🔑 Quick take:</strong> Ca²⁺ = <strong>contraction trigger</strong> — no calcium, no squeeze.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Calcium: The Contraction Regulator</p>\n  <p style='margin: 0 0 10px 0;'>In muscle, <strong>calcium (Ca²⁺)</strong> is the key regulatory ion. It binds to troponin C to initiate contraction and is actively pumped back into the sarcoplasmic reticulum (via SERCA) to allow relaxation. While Na⁺ (A) and K⁺ (D) are crucial for action potentials that trigger Ca²⁺ release, they are not directly involved in the contraction/relaxation cycle. Cl⁻ (C) has minor roles in stabilizing membrane potential.</p>\n  <p style='margin: 0;'><strong>Clinical correlation:</strong> Hypocalcemia causes tetany (increased neuromuscular excitability); hypercalcemia causes muscle weakness.</p>\n</div>"
     }
   },
   {
@@ -564,7 +563,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>💊 Quick take:</strong> Aldosterone = <strong>\"save salt\"</strong> → water follows → BP rises.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Aldosterone: Salt Retention, Water Follows</p>\n  <p style='margin: 0 0 10px 0;'>Aldosterone acts on principal cells of the distal convoluted tubule and collecting duct to <strong>increase Na⁺ reabsorption</strong>. Because water follows sodium osmotically, this indirectly increases water retention and blood volume. The trade-off is that aldosterone also <strong>increases K⁺ excretion</strong> — but the question asks for the effect on water. Option A (increased Na⁺ excretion) is opposite; option D (inhibits water reabsorption) is false; option B is true but not the primary effect described in the water retention option.</p>\n  <p style='margin: 0;'><strong>Clinical note:</strong> Hyperaldosteronism causes hypertension, hypokalemia, and metabolic alkalosis.</p>\n</div>"
     }
   },
   {
@@ -587,7 +586,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>💧 Quick take:</strong> ADH = <strong>\"hold water\"</strong> hormone — makes urine concentrated.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>ADH: The Water Conservation Hormone</p>\n  <p style='margin: 0 0 10px 0;'><strong>Antidiuretic hormone (ADH)</strong> (vasopressin) is released from the posterior pituitary in response to increased plasma osmolality or decreased blood volume. It acts on the collecting duct to insert aquaporin-2 water channels, increasing water permeability and reabsorption, producing concentrated urine. Insulin (A) regulates glucose; thyroid hormone (C) regulates metabolism; cortisol (D) regulates stress response and metabolism.</p>\n  <p style='margin: 0;'><strong>Clinical correlation:</strong> ADH deficiency (central diabetes insipidus) causes massive dilute urine output and polydipsia.</p>\n</div>"
     }
   },
   {
@@ -610,7 +609,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🧽 Quick take:</strong> Too much pressure in pipes → <strong>fluid pushed into tissues</strong> = swelling.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Edema: Fluid Leak into Tissues</p>\n  <p style='margin: 0 0 10px 0;'>Edema is accumulation of fluid in interstitial spaces. The most common cause is <strong>increased capillary hydrostatic pressure</strong>, which pushes more fluid out of capillaries than can be reabsorbed. This occurs in heart failure (venous congestion), venous obstruction, or fluid overload. Other mechanisms include decreased plasma oncotic pressure (low albumin, not increased — C), increased capillary permeability, and lymphatic obstruction. Decreased blood volume (D) would reduce, not increase, edema. Decreased sodium (B) doesn't cause edema (though sodium retention does).</p>\n  <p style='margin: 0;'><strong>Starling forces:</strong> Edema occurs when net filtration > lymphatic drainage capacity.</p>\n</div>"
     }
   },
   {
@@ -638,7 +637,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🦴 Quick take:</strong> PTH = <strong>calcium up</strong> — pulls Ca²⁺ from bones, gut, and saves it in kidneys.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>PTH: The Calcium-Regulating Hormone</p>\n  <p style='margin: 0 0 10px 0;'><strong>Parathyroid hormone (PTH)</strong> is the primary regulator of calcium homeostasis. It increases blood calcium by stimulating bone resorption, increasing renal calcium reabsorption, and activating vitamin D (which increases intestinal calcium absorption). Insulin (B) regulates glucose; thyroxine (C) regulates metabolism; cortisol (D) regulates stress response and inflammation — none have primary roles in calcium balance.</p>\n  <p style='margin: 0;'><strong>Note:</strong> Calcitonin (thyroid) also affects calcium but plays a minor role in adult humans.</p>\n</div>"
     }
   },
   {
@@ -661,7 +660,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🍬 Quick take:</strong> Insulin = <strong>key to unlock cells</strong> — lets glucose in, lowers blood sugar.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Insulin: The Glucose-Lowering Hormone</p>\n  <p style='margin: 0 0 10px 0;'>Insulin, secreted by pancreatic β-cells in response to hyperglycemia, <strong>lowers blood glucose</strong> by promoting cellular glucose uptake (especially in muscle and adipose), stimulating glycogenesis (glycogen synthesis), inhibiting gluconeogenesis, and promoting lipogenesis. It is the only hormone that significantly lowers blood glucose. Glucagon, cortisol, epinephrine, and growth hormone raise glucose (A). Insulin does not promote protein breakdown (C) — it promotes protein synthesis. Sodium retention (D) is aldosterone's function.</p>\n  <p style='margin: 0;'><strong>Clinical note:</strong> Diabetes mellitus results from insulin deficiency or resistance, causing chronic hyperglycemia.</p>\n</div>"
     }
   },
   {
@@ -684,7 +683,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🔥 Quick take:</strong> Thyroid = <strong>body's gas pedal</strong> — speeds up metabolism.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Thyroid Hormone: Metabolic Accelerator</p>\n  <p style='margin: 0 0 10px 0;'>Thyroid hormones (T₃ and T₄) are the primary regulators of basal metabolic rate (BMR). They <strong>increase metabolic rate</strong> by upregulating Na⁺/K⁺ ATPase activity, stimulating mitochondrial oxygen consumption, and enhancing protein synthesis and breakdown (calorigenic effect). Hyperthyroidism causes weight loss, heat intolerance, tachycardia; hypothyroidism causes weight gain, cold intolerance, bradycardia. Options A and B are opposite; D (fat storage) is insulin's role.</p>\n  <p style='margin: 0;'><strong>Key concept:</strong> Thyroid hormones set the \"baseline\" metabolic rate for all cells.</p>\n</div>"
     }
   },
   {
@@ -707,7 +706,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🍬 Quick take:</strong> High blood sugar → spills into urine → <strong>thirst + frequent peeing</strong>.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Diabetes Mellitus: The Classic Triad</p>\n  <p style='margin: 0 0 10px 0;'><strong>Diabetes mellitus</strong> is characterized by chronic hyperglycemia due to insulin deficiency (type 1) or resistance (type 2). The classic symptoms are <strong>polyuria</strong> (frequent urination — glucose spills into urine, causing osmotic diuresis), <strong>polydipsia</strong> (excessive thirst — from water loss), and <strong>polyphagia</strong> (excessive hunger). Hyperthyroidism (A) causes weight loss, tachycardia, heat intolerance. Addison's (C) causes hyperpigmentation, hypotension, hyponatremia. Cushing's (D) causes central obesity, moon facies, hypertension.</p>\n  <p style='margin: 0;'><strong>Differentiation:</strong> Diabetes insipidus (ADH deficiency) also causes polyuria/polydipsia but with normal blood glucose.</p>\n</div>"
     }
   },
   {
@@ -730,7 +729,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>⚡ Quick take:</strong> Adrenals = <strong>\"fight or flight\" factory</strong> — makes adrenaline.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Adrenaline Source: The Adrenal Medulla</p>\n  <p style='margin: 0 0 10px 0;'>Epinephrine (adrenaline) is produced by the <strong>adrenal medulla</strong> (the inner portion of the adrenal glands). It is released in response to sympathetic stimulation (fight-or-flight), increasing heart rate, blood pressure, bronchodilation, and glucose mobilization. The pituitary (A) produces GH, ACTH, TSH, etc. Thyroid (C) produces T₃/T₄; pancreas (D) produces insulin and glucagon.</p>\n  <p style='margin: 0;'><strong>Key concept:</strong> The adrenal medulla is essentially a modified sympathetic ganglion that secretes hormones directly into blood.</p>\n</div>"
     }
   },
   {
@@ -758,7 +757,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🌊 Quick take:</strong> Membrane = <strong>oil slick with floating proteins</strong> — not rigid!</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Fluid Mosaic Model: Dynamic Membrane Structure</p>\n  <p style='margin: 0 0 10px 0;'>The fluid mosaic model describes the plasma membrane as a <strong>dynamic structure</strong> where phospholipids and proteins can move laterally within the bilayer (fluidity). Proteins are embedded like \"mosaics\" and can diffuse. The model does NOT propose rigidity (A — it's the opposite), does NOT claim only lipids (C — proteins and carbohydrates are also present), and does NOT describe the nucleus (D). This model revolutionized membrane biology.</p>\n  <p style='margin: 0;'><strong>Key concept:</strong> Fluidity allows membrane repair, endocytosis, and protein function.</p>\n</div>"
     }
   },
   {
@@ -781,7 +780,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🛡️ Quick take:</strong> Cholesterol = <strong>membrane stabilizer</strong> — keeps it flexible but strong.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Cholesterol: Membrane Modulator</p>\n  <p style='margin: 0 0 10px 0;'>Cholesterol molecules interspersed within the phospholipid bilayer <strong>modulate membrane fluidity and stability</strong>. At high temperatures, it reduces fluidity (prevents excessive movement); at low temperatures, it increases fluidity (prevents packing). It also contributes to mechanical strength and organizes membrane domains (lipid rafts). Cholesterol does NOT directly transport molecules (A — that's proteins), function as receptors (C — proteins do that), or store genetic info (D — DNA in nucleus).</p>\n  <p style='margin: 0;'><strong>Clinical note:</strong> Cholesterol is essential; abnormal cholesterol metabolism contributes to atherosclerosis.</p>\n</div>"
     }
   },
   {
@@ -804,7 +803,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>📦 Quick take:</strong> Golgi = <strong>cell's post office</strong> — modifies and ships proteins.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Golgi Apparatus: The Cell's Post Office</p>\n  <p style='margin: 0 0 10px 0;'>The Golgi apparatus receives proteins from the ER, <strong>modifies them</strong> (glycosylation, phosphorylation, proteolytic cleavage), <strong>sorts them</strong>, and <strong>packages them</strong> into vesicles for delivery to lysosomes, plasma membrane, or secretion. Protein synthesis (A) occurs at ribosomes. ATP production (C) occurs in mitochondria. Cell shape maintenance (D) is primarily the cytoskeleton's role.</p>\n  <p style='margin: 0;'><strong>Key concept:</strong> The Golgi is the central sorting and processing station in the endomembrane system.</p>\n</div>"
     }
   },
   {
@@ -827,7 +826,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>⚡ Quick take:</strong> Active = <strong>uphill movement</strong> — needs energy (ATP).</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Active Transport: Energy-Dependent Movement</p>\n  <p style='margin: 0 0 10px 0;'><strong>Active transport</strong> is the only mechanism that directly requires ATP (or other energy sources) because it moves substances against their electrochemical gradient. This includes primary active transport (Na⁺/K⁺ ATPase, Ca²⁺ ATPase) and secondary active transport (which indirectly uses ATP via gradients). Diffusion (A), facilitated diffusion (B), and osmosis (D) are all <strong>passive</strong> — they move substances down gradients without ATP.</p>\n  <p style='margin: 0;'><strong>Remember:</strong> Active = against gradient = needs energy (ATP).</p>\n</div>"
     }
   },
   {
@@ -850,7 +849,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🍽️ Quick take:</strong> Endocytosis = <strong>cell eating/drinking</strong> — wraps around and pulls in.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Endocytosis: Cellular Uptake</p>\n  <p style='margin: 0 0 10px 0;'>Endocytosis is the process by which cells internalize materials from the extracellular environment by invaginating the plasma membrane and forming vesicles. It includes <strong>phagocytosis</strong> (engulfing solid particles/pathogens — option C) and <strong>pinocytosis</strong> (engulfing liquid/dissolved substances — option A). Option D describes exocytosis (release), and option B describes osmosis (water movement). The question likely expects the classic definition of endocytosis as engulfment of materials into vesicles, with phagocytosis being the most commonly referenced form.</p>\n  <p style='margin: 0;'><strong>Key distinction:</strong> Endocytosis = into cell; exocytosis = out of cell.</p>\n</div>"
     }
   },
   {
@@ -878,7 +877,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>📈 Quick take:</strong> Polycythemia = <strong>too many RBCs</strong> — blood thickens.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Polycythemia: RBC Overabundance</p>\n  <p style='margin: 0 0 10px 0;'>Polycythemia is defined by an <strong>increased number of red blood cells</strong> (elevated hematocrit). This can be primary (polycythemia vera — myeloproliferative neoplasm) or secondary (response to chronic hypoxia). The increased RBC mass raises blood viscosity, increasing thrombosis risk. Option A describes anemia; C is not characteristic (RBC lifespan is usually normal); D is unrelated.</p>\n  <p style='margin: 0;'><strong>Clinical note:</strong> Polycythemia vera also often involves elevated WBC and platelets (panmyelosis).</p>\n</div>"
     }
   },
   {
@@ -901,7 +900,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🩸 Quick take:</strong> Type O = <strong>no A/B antigens</strong> — can give to anyone.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Universal Donor: Type O Negative</p>\n  <p style='margin: 0 0 10px 0;'>Type O blood lacks A and B antigens on red blood cells, so it can be transfused to individuals of any ABO blood type without causing an ABO incompatibility reaction. <strong>Type O negative</strong> (Rh-negative) is the true \"universal donor\" for red blood cells. Type AB is the universal recipient (lacks anti-A and anti-B antibodies).</p>\n  <p style='margin: 0;'><strong>Important:</strong> For plasma transfusions, the roles reverse — AB is universal plasma donor (lacks anti-A and anti-B antibodies).</p>\n</div>"
     }
   },
   {
@@ -924,7 +923,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>💧 Quick take:</strong> Dehydration <strong>concentrates</strong> platelets — doesn't lower count.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Thrombocytopenia Causes: What Doesn't Belong</p>\n  <p style='margin: 0 0 10px 0;'>Thrombocytopenia = low platelet count (<150,000/μL). Causes include: <strong>bone marrow failure</strong> (aplastic anemia, chemotherapy), <strong>autoimmune destruction</strong> (immune thrombocytopenic purpura, ITP), <strong>consumption</strong> (DIC, TTP), and <strong>splenic sequestration</strong>. <strong>Dehydration</strong> actually concentrates blood components, potentially causing a falsely elevated platelet count (hemoconcentration), not thrombocytopenia. Excessive blood loss (B) may cause thrombocytopenia if severe and requiring massive transfusion, but it's not the \"NOT a cause\" answer here.</p>\n  <p style='margin: 0;'><strong>Key point:</strong> Dehydration causes relative increase, not decrease, in platelet count.</p>\n</div>"
     }
   },
   {
@@ -947,7 +946,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🛡️ Quick take:</strong> WBCs = <strong>immune army</strong> — fight invaders.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>White Blood Cells: The Immune Army</p>\n  <p style='margin: 0 0 10px 0;'>White blood cells (leukocytes) are the cellular components of the immune system. Their primary function is <strong>defense against infection and immunity</strong>. Neutrophils and macrophages phagocytose pathogens; lymphocytes (B and T cells) mediate adaptive immunity; eosinophils combat parasites; basophils/mast cells mediate allergic responses. Oxygen transport (A) is RBC function; clotting (B) is platelet function; nutrient transport (D) is plasma and RBC function.</p>\n  <p style='margin: 0;'><strong>Clinical note:</strong> Leukocytosis indicates infection/inflammation; leukopenia increases infection risk.</p>\n</div>"
     }
   },
   {
@@ -970,7 +969,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🕸️ Quick take:</strong> Fibrinogen → fibrin = <strong>mesh that traps platelets</strong> to form clot.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Fibrinogen: The Clot Scaffold</p>\n  <p style='margin: 0 0 10px 0;'>Fibrinogen is a soluble plasma protein produced by the liver. During coagulation, thrombin converts fibrinogen to <strong>insoluble fibrin</strong>, which polymerizes to form a mesh that traps platelets and red blood cells, stabilizing the clot. Fibrin is the structural framework of a thrombus. Option B describes plasmin (fibrinolysis); C is hemoglobin; D is leukocyte function.</p>\n  <p style='margin: 0;'><strong>Key concept:</strong> Fibrinogen → fibrin = the final common pathway of coagulation.</p>\n</div>"
     }
   },
   {
@@ -998,7 +997,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🧠 Quick take:</strong> Smooth muscle = <strong>automatic</strong> (organs, blood vessels) — one nucleus.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Smooth Muscle: Involuntary and Uninucleate</p>\n  <p style='margin: 0 0 10px 0;'>Smooth muscle is <strong>non-striated</strong> (no sarcomeres), has a <strong>single central nucleus per cell</strong>, and is <strong>involuntary</strong> (controlled by autonomic nervous system and hormones). It is found in walls of hollow organs (GI tract, blood vessels, uterus, bladder). Option A describes skeletal muscle (striated, voluntary); C describes skeletal muscle (multiple nuclei, voluntary); D is incorrect — cardiac muscle is in the heart, not smooth.</p>\n  <p style='margin: 0;'><strong>Key point:</strong> \"Smooth\" refers to lack of striations; contraction is slower but sustained.</p>\n</div>"
     }
   },
   {
@@ -1021,7 +1020,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🪢 Quick take:</strong> Filaments <strong>slide past each other</strong> — like oars pulling boat.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Sliding Filament Theory: Filaments Slide, Not Shorten</p>\n  <p style='margin: 0 0 10px 0;'>The sliding filament theory states that during contraction, <strong>actin (thin) filaments slide over myosin (thick) filaments</strong>, pulling Z-discs toward the center and shortening the sarcomere. The filaments themselves <strong>do not shorten</strong> — their length remains constant. Cross-bridges form and break repeatedly (C is part of the cycle, not the explanation). Calcium release (D) triggers the process but isn't the sliding mechanism.</p>\n  <p style='margin: 0;'><strong>Key concept:</strong> Think of a boat's oars (myosin) pulling the boat (actin) — oars don't shorten, the boat moves.</p>\n</div>"
     }
   },
   {
@@ -1044,7 +1043,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🔑 Quick take:</strong> Ca²⁺ = <strong>starter key</strong> — unlocks actin for myosin to grab.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Calcium: The Initiator of Contraction</p>\n  <p style='margin: 0 0 10px 0;'><strong>Calcium (Ca²⁺)</strong> is the ion that directly initiates contraction. It binds to troponin C, causing a conformational change that moves tropomyosin away from myosin-binding sites on actin, allowing cross-bridge formation. Sodium (B) and potassium (C) are involved in generating action potentials that trigger Ca²⁺ release, but they do not directly initiate the contractile process. Chloride (D) stabilizes membrane potential.</p>\n  <p style='margin: 0;'><strong>Clinical note:</strong> Hypocalcemia causes tetany (increased neuromuscular excitability); hypercalcemia causes weakness.</p>\n</div>"
     }
   },
   {
@@ -1067,7 +1066,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🏃 Quick take:</strong> Type I = <strong>endurance fibers</strong> — slow but don't tire.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Type I Fibers: Endurance Specialists</p>\n  <p style='margin: 0 0 10px 0;'><strong>Type I (slow-twitch) fibers</strong> are oxidative, fatigue-resistant, and specialized for sustained, low-intensity activities (e.g., marathon running, maintaining posture). They have high mitochondrial density, myoglobin content, and capillary supply. Type IIa (fast-twitch oxidative) are intermediate; Type IIb (fast-twitch glycolytic) are for short, explosive movements (sprinting) and fatigue quickly.</p>\n  <p style='margin: 0;'><strong>Key concept:</strong> Fiber type distribution is genetically determined but can shift with training.</p>\n</div>"
     }
   },
   {
@@ -1090,7 +1089,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>❤️ Quick take:</strong> Heart = <strong>automatic</strong> — ANS speeds or slows it.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Cardiac Regulation: Autonomic Control</p>\n  <p style='margin: 0 0 10px 0;'>Cardiac muscle contraction is regulated by the <strong>autonomic nervous system</strong> (sympathetic and parasympathetic). The heart has intrinsic automaticity (SA node pacemaker), but rate and contractility are modulated by neural input. Skeletal muscle motor neurons (B) do not innervate cardiac muscle. Hormonal regulation (C) occurs (epinephrine, thyroid hormone), but it's not \"only\" hormonal — the primary regulator is ANS. External electrical stimulation (D) is artificial (pacemaker) but not physiological regulation.</p>\n  <p style='margin: 0;'><strong>Key point:</strong> Sympathetic ↑ rate/contractility; parasympathetic ↓ rate.</p>\n</div>"
     }
   },
   {
@@ -1118,7 +1117,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>⏰ Quick take:</strong> SA node = <strong>pacemaker</strong> — starts every heartbeat.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>SA Node: The Heart's Pacemaker</p>\n  <p style='margin: 0 0 10px 0;'>The <strong>sinoatrial (SA) node</strong> is a cluster of specialized pacemaker cells in the right atrium that spontaneously depolarizes, generating action potentials at the fastest intrinsic rate (60-100/min). It is the primary pacemaker, initiating each heartbeat. The impulse then spreads through the atria to the AV node. The SA node does not pump blood (B — that's ventricles), release epinephrine (C — adrenal medulla), or affect skeletal muscles (D).</p>\n  <p style='margin: 0;'><strong>Clinical note:</strong> SA node dysfunction causes bradycardia and may require artificial pacemaker.</p>\n</div>"
     }
   },
   {
@@ -1141,7 +1140,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🎵 Quick take:</strong> \"Lub\" = AV valves close, <strong>\"Dub\" = semilunar valves close</strong>.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Heart Sounds: Lub-Dub</p>\n  <p style='margin: 0 0 10px 0;'>The <strong>\"dub\" (S₂)</strong> sound is caused by the <strong>closure of the semilunar valves</strong> (aortic and pulmonary) at the beginning of ventricular diastole. The <strong>\"lub\" (S₁)</strong> is caused by closure of the atrioventricular valves (tricuspid and mitral) at the beginning of ventricular systole. Atrial contraction (C) is usually silent; ventricular contraction (D) itself doesn't produce sound — valve closure does.</p>\n  <p style='margin: 0;'><strong>Key concept:</strong> Heart sounds reflect valve closure, not muscle contraction.</p>\n</div>"
     }
   },
   {
@@ -1164,7 +1163,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>📊 Quick take:</strong> CO = HR × SV — oxygen levels <strong>don't directly change</strong> the formula.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Cardiac Output Determinants</p>\n  <p style='margin: 0 0 10px 0;'>Cardiac output (CO) is determined exclusively by <strong>heart rate (HR) and stroke volume (SV)</strong> — CO = HR × SV. Blood viscosity (C) affects peripheral resistance (afterload), which indirectly affects SV, but it's not a direct determinant of CO. Oxygen concentration in blood (D) does <strong>not</strong> directly influence CO; while hypoxemia can trigger increased HR, it is not a direct component of the CO equation. However, among the options, oxygen concentration is the least direct and commonly considered \"not influencing\" CO in basic physiology.</p>\n  <p style='margin: 0;'><strong>Note:</strong> In advanced physiology, chronic hypoxemia can increase CO via increased HR and contractility, but it's not a primary determinant.</p>\n</div>"
     }
   },
   {
@@ -1187,7 +1186,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>⚠️ Quick take:</strong> High BP damages vessels → <strong>plaque buildup → stroke/heart attack</strong>.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Hypertension Complications: End-Organ Damage</p>\n  <p style='margin: 0 0 10px 0;'>Chronic hypertension is a major risk factor for <strong>atherosclerosis</strong> (endothelial injury → plaque formation) and <strong>stroke</strong> (ischemic or hemorrhagic). Other complications include myocardial infarction, heart failure, chronic kidney disease, and retinopathy. Hypertension does not directly cause decreased blood flow to organs (A) — it may initially increase flow, but chronic damage leads to end-organ ischemia. Decreased heart rate (B) is not a complication; hypertension may cause reflex bradycardia initially. Venous clot risk (C) is more associated with stasis, not hypertension.</p>\n  <p style='margin: 0;'><strong>Key point:</strong> Hypertension is the \"silent killer\" because it damages vessels long before symptoms appear.</p>\n</div>"
     }
   },
   {
@@ -1210,8 +1209,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='background: var(--explainBg); padding: 12px; border-radius: 8px; border-left: 3px solid var(--strongColor);'>\n  <p style='margin: 0;'><strong>🌡️ Quick take:</strong> High BP detected → <strong>slow heart + relax vessels</strong> → BP drops.</p>\n</div>"
+      "content": "<div style='background: var(--explainBg); padding: 15px; border-radius: 12px; border-left: 4px solid var(--strongColor);'>\n  <p style='margin: 0 0 10px 0; font-weight: 600;'>Baroreceptor Reflex: Compensatory Response</p>\n  <p style='margin: 0 0 10px 0;'>When blood pressure rises, baroreceptors fire more rapidly. The medulla responds by <strong>increasing parasympathetic (vagal) tone</strong> (decreasing heart rate) and <strong>decreasing sympathetic tone</strong> (causing vasodilation and decreased contractility). The net effect is a reduction in BP toward normal. This matches option C: decreasing heart rate and vasodilation. Option A would increase BP further; B (decreased HR + vasoconstriction) is not a coordinated response; D would increase BP.</p>\n  <p style='margin: 0;'><strong>Key concept:</strong> The reflex works in both directions — opposite responses for hypotension.</p>\n</div>"
     }
   }
 ]
-
